@@ -1,0 +1,3 @@
+SELECT *
+┬╖ FROM 'https://mioctobobi.blob.core.windows.net/bobi/db/gravity.vw_matview_pc_software_cat_item_jsonb_part1.parquet?sp=r&st=2025-01-27T03:39:32Z&se=2025-01-27T11:39:32Z&spr=https&sv=2022-11-02&sr=c&sig=0vEy4xyd2DND6ucLgt%2BGRaQABBTeTHYfq5mB03aEuFw%3D'
+┬╖ LIMIT 10;
