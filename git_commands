@@ -5,5 +5,9 @@ git mv duckdb_install.txt duckdb_installation
 to exit the terminal:
 type :q
 ###################
+RENAMING OF FILES
+git config commands:
+    git config --global alias.c commit
+######################
 
-hello my name is anupama
+git log commands:
