@@ -15,3 +15,8 @@ git log commands:
 git log --pretty=format:"%h %s %cn" --graph
 git log --pretty=format:"%h %s %cn %cr" --graph
 git log --pretty=format:"%h - %an, %ar : %s" --committer="Anupama"
+
+##############################################
+
+git remote show
+git remote rename personal origin
